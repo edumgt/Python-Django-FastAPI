@@ -1,4 +1,4 @@
-# python-002
+# Python-Django-FastAPI
 
 이 저장소는 **FastAPI 기반 항구/선박 API 실험 코드**와 **Django 기반 관리/도메인 앱**이 함께 들어있는 학습용 프로젝트입니다.
 
